@@ -630,7 +630,8 @@ export const teamMembers: TeamMember[] = [
   {
     name: 'Mayank Gautam',
     role: 'Founder and CEO',
-    bio: 'Visionary behind EMERK, driving the mission to transform medication safety through AI-powered preventive intelligence. Leading product strategy and research direction ,Leading business development, investor relations, and strategic growth initiatives. Building EMERK into a globally recognized Healthcare AI SaaS platform.',
+    bio: 'Visionary behind EMERK, driving AI-powered innovation in medication safety while leading product strategy, research, investor relations, and strategic growth to build a globally recognized Healthcare AI SaaS platform.
+',
   },
   {
     name: 'Shashank Pandey',
