@@ -644,7 +644,7 @@ export const teamMembers: TeamMember[] = [
   },
   {
     name: 'Souvik Das',
-    role: 'CEO',
+    role: 'Director and CRO ',
     bio: 'leading research innovation, strategic planning, and operational growth initiatives to advance EMERK as a globally recognized Healthcare AI SaaS platform. and driving operational strategy, business partnerships, and organizational growth to support EMERK’s mission of becoming a globally recognized Healthcare AI SaaS platform.',
   },
 ];
