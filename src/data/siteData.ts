@@ -630,8 +630,7 @@ export const teamMembers: TeamMember[] = [
   {
     name: 'Mayank Gautam',
     role: 'Founder and CEO',
-    bio: 'Visionary behind EMERK, driving AI-powered innovation in medication safety while leading product strategy, research, investor relations, and strategic growth to build a globally recognized Healthcare AI SaaS platform.
-',
+    bio: 'Visionary behind EMERK, driving AI-powered innovation in medication safety while leading product strategy, research, investor relations, and strategic growth to build a globally recognized Healthcare AI SaaS platform.',
   },
   {
     name: 'Shashank Pandey',
@@ -644,10 +643,10 @@ export const teamMembers: TeamMember[] = [
     bio: 'Driving operational excellence, partnerships, and go-to-market strategy. Ensuring EMERK reaches the healthcare institutions that need it most.',
   },
   {
-    name: 'Souvik Das',
-    role: 'Director and CRO ',
-    bio: 'leading research innovation, strategic planning, and operational growth initiatives to advance EMERK as a globally recognized Healthcare AI SaaS platform. and driving operational strategy, business partnerships, and organizational growth to support EMERK’s mission of becoming a globally recognized Healthcare AI SaaS platform.',
-  },
+  name: 'Souvik Das',
+  role: 'Director and CRO',
+  bio: "leading research innovation, strategic planning, and operational growth initiatives to advance EMERK as a globally recognized Healthcare AI SaaS platform. and driving operational strategy, business partnerships, and organizational growth to support EMERK's mission of becoming a globally recognized Healthcare AI SaaS platform.",
+},
 ];
 
 export const footerSections: FooterSection[] = [
