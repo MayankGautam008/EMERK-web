@@ -629,8 +629,8 @@ export const futureVisions: FutureVision[] = [
 export const teamMembers: TeamMember[] = [
   {
     name: 'Mayank Gautam',
-    role: 'Founder',
-    bio: 'Visionary behind EMERK, driving the mission to transform medication safety through AI-powered preventive intelligence. Leading product strategy and research direction.',
+    role: 'Founder and CEO',
+    bio: 'Visionary behind EMERK, driving the mission to transform medication safety through AI-powered preventive intelligence. Leading product strategy and research direction ,Leading business development, investor relations, and strategic growth initiatives. Building EMERK into a globally recognized Healthcare AI SaaS platform.',
   },
   {
     name: 'Shashank Pandey',
@@ -645,7 +645,7 @@ export const teamMembers: TeamMember[] = [
   {
     name: 'Souvik Das',
     role: 'CEO',
-    bio: 'Leading business development, investor relations, and strategic growth initiatives. Building EMERK into a globally recognized Healthcare AI SaaS platform.',
+    bio: 'leading research innovation, strategic planning, and operational growth initiatives to advance EMERK as a globally recognized Healthcare AI SaaS platform. and driving operational strategy, business partnerships, and organizational growth to support EMERK’s mission of becoming a globally recognized Healthcare AI SaaS platform.',
   },
 ];
 
